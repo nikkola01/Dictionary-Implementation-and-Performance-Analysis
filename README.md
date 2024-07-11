@@ -54,17 +54,17 @@ Tests and compares the performance of the `HashSetDictionary` and `Trie` impleme
 
 To run this project, you need to have Java installed on your system. Clone the repository and compile the Java files:
 
-\`\`\`bash
-git clone https://github.com/yourusername/dictionary-performance-analysis.git
+```bash
+git clone https://github.com/nikkola01/dictionary-performance-analysis.git
 cd dictionary-performance-analysis/src
 javac *.java
-\`\`\`
+```
 
 Run the performance tests:
 
-\`\`\`bash
+```bash
 java TimeTest
-\`\`\`
+```
 
 ## Usage
 
