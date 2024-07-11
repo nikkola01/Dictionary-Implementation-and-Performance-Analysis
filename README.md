@@ -16,14 +16,14 @@ This project involves implementing a dictionary using two different data structu
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 ├── src
 │   ├── HashSetDictionary.java
 │   ├── Node.java
 │   ├── Trie.java
 │   ├── TimeTest.java
 │   └── README.md
-\`\`\`
+```
 
 ### HashSetDictionary.java
 Implements dictionary operations using Java's `HashSet`.
